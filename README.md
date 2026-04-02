@@ -7,7 +7,7 @@ Software Engineer with 8+ years of experience building enterprise-grade platform
 - Interested in ETL workloads, pipe-lines, reporting and Integrations.
 - Experienced in Azure and AWS Cloud.
 
-Outside of work I enjoy learning on DSA, data-intesive applications and patterns and reading and experimenting on AI-coding workloads and projects.
+Outside of work I enjoy learning on DSA, data-intensive applications and patterns and reading and experimenting on AI-coding workloads and projects.
 
 - 🎯 LinkedIn - <https://www.linkedin.com/in/atdissanayaka92>
 - 📖 Medium - <https://asiridissanayaka92.medium.com>
